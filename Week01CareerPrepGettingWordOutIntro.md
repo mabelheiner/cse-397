@@ -14,6 +14,7 @@ I love to crochet stuffed animals. I am currently making a Coraline doll.
 
 Photo: 
 I recently made these alicorns for my sister and they are so cute! The pattern was super hard and I'm so jealous she got both of them, because I'm too tired to make one for myself.
+<br>
 <img src="https://github.com/user-attachments/assets/f0864fd7-8fd4-44bd-b99b-56550a27dbf4" alt="alicorn front" height="500em">
 <img src="https://github.com/user-attachments/assets/dff14597-ed60-497e-9e1e-3730906ea4a6" alt="alicorn back" height="500em">
 
